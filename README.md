@@ -1,118 +1,147 @@
-<div align="center">
+# 👋 Hello, I'm C L Vinaya
 
-<img src="assets/sakura-banner.jpg" width="100%" alt="Pastel sakura and Japanese night sky banner">
+<p align="center">
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Data+Science;Cybersecurity;Machine+Learning;Building+VYNARA;Future+Software+Engineer" />
 
-<img src="assets/vynara-wave.gif" width="150" alt="Vynara animated avatar">
-
-# おはよう！ I'm Vynara 🌸
-
-**Student · Developer · Dreamer · Star-gazer**
-
-*Code ✦ Learn ✦ Build ✦ Explore*
-
-[![GitHub followers](https://img.shields.io/github/followers/RisingPhoeinixxxx?label=followers&style=flat-square&color=E8A6C8&labelColor=171522)](https://github.com/RisingPhoeinixxxx?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/RisingPhoeinixxxx?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=C8B4F2&labelColor=171522)](https://github.com/RisingPhoeinixxxx?tab=repositories)
-
-</div>
+</p>
 
 ---
 
-### 🌷 About me
+## 🚀 About Me
 
-Hi! I'm **Vinaya**, a BE Computer Science and Engineering student specializing in Data Science. I enjoy exploring AI, data science, cybersecurity, and creative software development.
+🎓 Bachelor of Engineering in Computer Science & Engineering (Data Science)
 
-- 🧠 Exploring machine learning, data analytics, and intelligent systems
-- 🛡️ Interested in cybersecurity and privacy-aware design
-- 💻 Building dashboards, web apps, and developer tools
-- 🌸 Outside code: anime, games, drawing, stargazing, and Japanese-inspired design
+🏫 New Horizon College of Engineering, Bangalore
 
----
+💡 Passionate about Artificial Intelligence, Data Science, Cybersecurity and Intelligent Software Systems
 
-### 🧰 Tools I use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,postgres,mongodb,git,github,vscode,docker,linux,figma&theme=dark" alt="Technology icons">
-
-</div>
+🌱 Continuously learning, building and exploring innovative technologies
 
 ---
 
-### ✨ Featured projects
+## 🌐 Connect With Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+💼 LinkedIn
 
-**🖥️ Neural-OS**
+https://www.linkedin.com/in/c-l-vinaya-9a310a294
 
-Realtime system observability with anomaly detection and an interactive dashboard.
+🌐 Portfolio
 
-`Python` `Flask` `Socket.IO` `ML`
+https://risingphoeinixxxx.github.io/vynara-portfolio/
 
-</td>
-<td width="50%" valign="top">
+💻 GitHub
 
-**🛡️ SecureNet**
-
-Cyber-defence research exploring AI-assisted monitoring and security concepts.
-
-`Python` `Cybersecurity` `Blockchain`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📦 StockSense**
-
-Inventory management for products, stock movements, and warehouse operations.
-
-`React` `TypeScript` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**🐰 CelesteVeil**
-
-A kawaii-inspired local AI companion concept.
-
-`Python` `Ollama` `UI`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[**Explore all my repositories →**](https://github.com/RisingPhoeinixxxx?tab=repositories)
-
-</div>
+https://github.com/RisingPhoeinixxxx
 
 ---
 
-### 📊 GitHub activity
+## 💻 Tech Stack
 
-<div align="center">
+### Programming
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RisingPhoeinixxxx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8A6C8&icon_color=C8B4F2&text_color=EAE4F2" alt="GitHub statistics">
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingPhoeinixxxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8A6C8&text_color=EAE4F2" alt="Most used languages">
+### Artificial Intelligence
 
-</div>
+- Machine Learning
+- Artificial Intelligence
+- Generative AI
+- Prompt Engineering
 
-<sub>Statistics and technology icons are provided by external services and may occasionally be unavailable or cached.</sub>
+### Development
+
+- Flask
+- Git
+- GitHub
+- VS Code
+
+### Other Technologies
+
+- Arduino
+- Android Studio
+- Data Analytics
+- Cybersecurity
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-### またね！ 🌸
+### 🤖 VYNARA
 
-*Keep learning, keep building, and be kind.*
+AI Powered Interactive Portfolio Website with VIN-AI Assistant
 
-<img src="assets/sakura-banner.jpg" width="100%" alt="Sakura night scenery">
+### 🛡️ SecureNet
 
-</div>
+AI Powered Cyber Defense Platform
+
+### 🧠 Neural-OS
+
+Real-Time Neural Observability & Monitoring Platform
+
+### 👁️ Witness
+
+AI Powered Monitoring & Observability Platform
+
+### 🌸 CelesteVeil
+
+AI Wellness Companion and Emotional Support Platform
+
+### ⚙️ BB-8 Droid
+
+Bluetooth Controlled Robotics Project using Arduino
+
+### 📊 League Analytics
+
+Esports Analytics & Trend Discovery Platform
+
+---
+
+## 📜 Certifications
+
+- SAP Fiori Application Developer
+- Introduction to Database Systems (NPTEL)
+- Internet of Things (NPTEL)
+- GitHub Copilot for Developers
+- Generative AI Landscape
+- Python for Machine Learning
+- Introduction to R
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RisingPhoeinixxxx&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingPhoeinixxxx&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RisingPhoeinixxxx&theme=tokyonight)
+
+---
+
+## 🎯 Career Objective
+
+To contribute to impactful technology solutions through Artificial Intelligence, Cybersecurity, Data Science and Software Engineering while continuously learning, innovating and solving real-world challenges.
+
+---
+
+## ⚡ Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Cybersecurity
+- Intelligent Systems
+- Full Stack Development
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
