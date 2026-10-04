@@ -200,8 +200,6 @@ A kawaii-inspired local AI companion concept built around a cozy interface and l
 
 </div>
 
-> **Note:** Project links above point to the profile or named repositories. If any project uses a different repository name, edit that link to match the exact URL in your account.
-
 ---
 
 <div align="center">
