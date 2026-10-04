@@ -215,10 +215,6 @@ A kawaii-inspired local AI companion concept built around a cozy interface and l
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingPhoeinixxxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=F2A8D0&text_color=E6EDF3&langs_count=8" alt="Most used programming languages" />
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RisingPhoeinixxxx&bg_color=0D1117&color=F2A8D0&line=C9B6F2&point=F9D5E5&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
-
-*Stats and third-party widgets may take time to load or may be temporarily unavailable.*
-
 </div>
 
 ---
