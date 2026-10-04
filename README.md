@@ -128,4 +128,8 @@ A kawaii-inspired local AI companion concept built around local models.
 
 <img src="assets/sakura-fall.gif" width="100%" alt="Soft falling sakura petals">
 
+## 🌸 My Sakura Contributions
+
+![Pink Contribution Graph](https://ghchart.xqsit94.in/dark:ffb7d5/RisingPhoeinixxxx)
+
 </div>
