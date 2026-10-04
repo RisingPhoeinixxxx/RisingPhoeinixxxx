@@ -1,42 +1,75 @@
 <div align="center">
 
-<img src="assets/sakura-fall.gif" width="100%" alt="Looping transparent falling sakura petals">
+<img src="assets/sakura-fall.gif" width="100%" alt="Soft falling sakura petals">
 
-<img src="assets/vynara-transparent.png" width="190" alt="Vynara transparent character illustration">
+<img src="assets/vynara-transparent.png" width="175" alt="Vynara, a pink-haired bunny-inspired character">
 
-<img src="assets/vynara-word-transition.gif" width="100%" alt="Animated Japanese greeting and rotating words">
+# 🌸 おはよう！ Ohayō! I'm Vinaya — Vynara 🐰
 
 **Student · Builder · Dreamer · Star-gazer**
 
-[![Followers](https://img.shields.io/github/followers/RisingPhoeinixxxx?style=flat-square&label=followers&color=E9A3CC&labelColor=171522)](https://github.com/RisingPhoeinixxxx?tab=followers)
-[![Stars](https://img.shields.io/github/stars/RisingPhoeinixxxx?style=flat-square&label=stars&color=CBB7F4&labelColor=171522)](https://github.com/RisingPhoeinixxxx?tab=repositories)
+<img src="assets/vynara-word-transition.gif" width="100%" alt="Animated words: code, learn, build, dream">
+
+[![GitHub followers](https://img.shields.io/github/followers/RisingPhoeinixxxx?style=flat-square&label=followers&color=E9A3CC&labelColor=171522)](https://github.com/RisingPhoeinixxxx?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/RisingPhoeinixxxx?style=flat-square&label=stars&color=CBB7F4&labelColor=171522)](https://github.com/RisingPhoeinixxxx?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=RisingPhoeinixxxx&style=flat-square&color=E9A3CC&label=visitors)](https://github.com/RisingPhoeinixxxx)
+
+*夢をコードに — Turning dreams into code.*
 
 </div>
 
 ---
 
-## 🌷 About me
+<table>
+<tr>
+<td width="31%" valign="top">
 
-Hi, I'm **Vinaya**, a BE Computer Science and Engineering student specializing in Data Science. I enjoy building thoughtful projects at the intersection of **AI, data science, cybersecurity, and creative software**.
+## 🌷 A little about me
 
-- 🧠 Exploring machine learning, data analytics, and intelligent systems
-- 🛡️ Interested in cybersecurity and privacy-aware design
-- 💻 Building dashboards, web apps, and developer tools
-- 🌸 Outside tech: anime, drawing, games, stargazing, and Japanese-inspired design
+**Vinaya (Vynara)**
+
+BE CSE — Data Science
+
+- 🧠 AI & machine learning
+- 🛡️ Cybersecurity
+- 💻 Full-stack development
+- 🌌 Stars, anime & drawing
+- 🌸 Japanese-inspired design
+
+</td>
+<td width="69%" valign="top">
+
+## ✨ Welcome to my little corner of GitHub!
+
+I'm a Computer Science and Data Science student who loves exploring the intersection of **AI, data, cybersecurity, and creative software**.
+
+I enjoy turning curious ideas into practical projects—from intelligent monitoring and security concepts to useful web apps and cozy local-AI experiences.
+
+- 🔭 **Exploring:** machine learning, intelligent systems, cybersecurity, and full-stack development
+- 🧪 **Building:** research prototypes, dashboards, and creative developer tools
+- 🌱 **Learning:** secure system design, responsible AI, and stronger software engineering
+- 🎨 **Creative side:** UI design, anime, games, drawing, and stargazing
+
+</td>
+</tr>
+</table>
 
 ## 🧰 Tech I explore
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,postgres,mongodb,git,github,vscode,docker,linux,figma&theme=dark" alt="Technology icons">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,postgres,mongodb,git,github,vscode,docker,linux,figma&theme=dark" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, Flask, PostgreSQL, MongoDB, Git, GitHub, VS Code, Docker, Linux and Figma">
+
 </div>
 
-## ✨ Featured projects
+## 🌸 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Neural-OS
+### 🖥️ [Neural-OS](https://github.com/RisingPhoeinixxxx)
+
 Realtime system observability with anomaly detection and an interactive dashboard.
 
 `Python` `Flask` `Socket.IO` `ML`
@@ -44,7 +77,8 @@ Realtime system observability with anomaly detection and an interactive dashboar
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ SecureNet
+### 🛡️ [SecureNet](https://github.com/RisingPhoeinixxxx/SecureNet)
+
 Cyber-defence research exploring AI-assisted monitoring and security concepts.
 
 `Python` `Cybersecurity` `Blockchain`
@@ -54,7 +88,8 @@ Cyber-defence research exploring AI-assisted monitoring and security concepts.
 <tr>
 <td width="50%" valign="top">
 
-### 📦 StockSense
+### 📦 [StockSense](https://github.com/RisingPhoeinixxxx/StockSense)
+
 Inventory management for products, stock movements, and warehouse operations.
 
 `React` `TypeScript` `PostgreSQL`
@@ -63,7 +98,8 @@ Inventory management for products, stock movements, and warehouse operations.
 <td width="50%" valign="top">
 
 ### 🐰 CelesteVeil
-A kawaii-inspired local AI companion concept.
+
+A kawaii-inspired local AI companion concept built around local models.
 
 `Python` `Ollama` `UI`
 
@@ -73,18 +109,23 @@ A kawaii-inspired local AI companion concept.
 
 <div align="center">
 
-[**Explore all repositories →**](https://github.com/RisingPhoeinixxxx?tab=repositories)
-
-## 🌸 GitHub garden
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RisingPhoeinixxxx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E9A3CC&icon_color=CBB7F4&text_color=EAE4F2" alt="GitHub statistics">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingPhoeinixxxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=E9A3CC&text_color=EAE4F2" alt="Most used languages">
-
-### またね！ 🌸
-*Keep learning, keep building, and be kind.*
-
-<img src="assets/sakura-fall.gif" width="100%" alt="Looping falling sakura petals">
+[🌷 **Explore all repositories**](https://github.com/RisingPhoeinixxxx?tab=repositories)
 
 </div>
 
-<sub>GitHub README supports Markdown and limited HTML, not custom CSS or JavaScript. The GIFs loop continuously, but true hover transitions and interactive effects are not supported directly. External stats and icon services may be cached or temporarily unavailable.</sub>
+## 📊 My GitHub garden
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RisingPhoeinixxxx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E9A3CC&icon_color=CBB7F4&text_color=EAE4F2" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisingPhoeinixxxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=E9A3CC&text_color=EAE4F2" alt="Most-used languages">
+</div>
+
+<div align="center">
+
+### またね！ 🌸
+
+*Keep learning, keep building, and be kind.*
+
+<img src="assets/sakura-fall.gif" width="100%" alt="Soft falling sakura petals">
+
+</div>
